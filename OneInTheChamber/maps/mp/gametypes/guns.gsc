@@ -1,15 +1,6 @@
 getRandomGun() {
     weapons = [];
-    weapons[weapons.size] = "beretta_mp";
-    weapons[weapons.size] = "barrett_mp";
-    weapons[weapons.size] = "cheytac_mp";
-    weapons[weapons.size] = "wa2000_mp";
     weapons[weapons.size] = "dragunov_mp";
-    weapons[weapons.size] = "m21_mp";
-    weapons[weapons.size] = "coltanaconda_fmj_tactical_mp";
-    weapons[weapons.size] = "barrett_acog_heartbeat_mp";
-    weapons[weapons.size] = "deserteagle_fmj_tactical_mp";
-    weapons[weapons.size] = "riotshield_mp";
     weapons[weapons.size] = "ac130_40mm_mp";
     weapons[weapons.size] = "ac130_25mm_mp";
     weapons[weapons.size] = "defaultweapon_mp";
