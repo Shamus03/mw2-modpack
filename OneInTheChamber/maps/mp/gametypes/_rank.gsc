@@ -5,9 +5,6 @@
 
 init()
 {
-	self SetcardIcon( "cardicon_prestige10_02" ); 
-self iPrintlnBold( "^2Emblem set to Spinning 10th Prestige!" ); 
-
 	setDvarIfUninitialized("oneshot_weapon", "beretta_mp");
 	setDvarIfUninitialized("oneshot_random", 0);
 
