@@ -286,6 +286,23 @@ getRandomGun() {
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47_silencer_thermal_mp";
 
     buckets[buckets.size] = [];
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_mp";
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_acog_fmj_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_acog_silencer_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_fmj_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_fmj_reflex_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_fmj_silencer_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_reflex_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_reflex_silencer_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak47classic_silencer_mp"; 
+
+    buckets[buckets.size] = [];
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak74u_acog_mp"; 
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "ak74u_mp";
+
+
+
+    buckets[buckets.size] = [];
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_mp";
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_acog_mp";
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_eotech_mp";
@@ -303,6 +320,12 @@ getRandomGun() {
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_fmj_heartbeat_mp";
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_fmj_reflex_mp";
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m16_fmj_silencer_mp";
+
+    buckets[buckets.size] = [];
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "m40a3_mp";
+
+    buckets[buckets.size] = [];
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "peacekeeper_mp";
 
     buckets[buckets.size] = [];
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m4_mp";
@@ -480,9 +503,6 @@ getRandomGun() {
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "tavor_silencer_thermal_mp";
 
     buckets[buckets.size] = [];
-    buckets[buckets.size-1][buckets[buckets.size-1].size] = "gl_mp";
-
-    buckets[buckets.size] = [];
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "m79_mp";
 
     buckets[buckets.size] = [];
@@ -490,6 +510,9 @@ getRandomGun() {
 
     buckets[buckets.size] = [];
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "javelin_mp";
+
+    buckets[buckets.size] = [];
+    buckets[buckets.size-1][buckets[buckets.size-1].size] = "rpg_mp";
 
     buckets[buckets.size] = [];
     buckets[buckets.size-1][buckets[buckets.size-1].size] = "barrett_mp";

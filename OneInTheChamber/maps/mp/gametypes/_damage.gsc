@@ -616,7 +616,7 @@ PlayerKilled_internal( eInflictor, attacker, victim, iDamage, sMeansOfDeath, sWe
 	// obituary
 	obituary( victim, attacker, sWeapon, sMeansOfDeath );
 
-	doKillcam = false;
+	doKillcam = true; //Kabryn Changed to true
 
 	lifeId = getNextLifeId();
 	
@@ -688,7 +688,7 @@ PlayerKilled_internal( eInflictor, attacker, victim, iDamage, sMeansOfDeath, sWe
 
 	if ( isFauxDeath )
 	{
-		doKillcam = false;
+		// doKillcam = false; Kabryn comment
 		deathAnimDuration = (victim PlayerForceDeathAnim( eInflictor, sMeansOfDeath, sWeapon, sHitLoc, vDir ));
 	}
 
@@ -735,7 +735,7 @@ PlayerKilled_internal( eInflictor, attacker, victim, iDamage, sMeansOfDeath, sWe
 	//prof_end( " PlayerKilled_5" );
 	//prof_begin( " PlayerKilled_6" );
 	
-	if ( isDefined( attacker.finalKill ) && doKillcam && !isDefined( level.nukeDetonated ) )
+	if ( doKillcam ) // kabryn changed from isDefined( attacker.finalKill ) && doKillcam && !isDefined( level.nukeDetonated )
 	{
 		level thread doFinalKillcam( 5.0, victim, attacker, attackerNum, killcamentityindex, killcamentitystarttime, sWeapon, deathTimeOffset, psOffsetTime );
 
