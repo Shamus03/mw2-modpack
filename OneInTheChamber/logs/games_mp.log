@@ -1,0 +1,582 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:06 J;ec32336b56cd5f10;2;Shhsshs
+  0:47 K;ec32336b56cd5f10;2;allies;Shhsshs;ec32336b56cd5f10;2;allies;Shhsshs;claymore_mp;1000;MOD_SUICIDE;none
+  1:14 ExitLevel: executed
+  1:14 ShutdownGame:
+  1:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:04 J;ec32336b56cd5f10;2;Shhsshs
+  0:44 ExitLevel: executed
+  0:44 ShutdownGame:
+  0:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:04 J;ec32336b56cd5f10;14;Shhsshs
+  0:27 K;ec32336b56cd5f10;14;allies;Shhsshs;ec32336b56cd5f10;14;allies;Shhsshs;claymore_mp;1000;MOD_SUICIDE;none
+  2:01 K;ec32336b56cd5f10;14;allies;Shhsshs;;-1;world;;none;1000;MOD_TRIGGER_HURT;none
+  5:26 ShutdownGame:
+  5:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:03 J;ec32336b56cd5f10;0;Shhsshs
+  1:55 ExitLevel: executed
+  1:55 ShutdownGame:
+  1:55 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:04 J;ec32336b56cd5f10;8;Shhsshs
+  0:32 ShutdownGame:
+  0:32 ------------------------------------------------------------
+  0:32 ------------------------------------------------------------
+  0:32 InitGame
+  0:32 J;ec32336b56cd5f10;8;Shhsshs
+  0:41 ShutdownGame:
+  0:41 ------------------------------------------------------------
+  0:41 ------------------------------------------------------------
+  0:41 InitGame
+  0:45 J;ec32336b56cd5f10;8;Shhsshs
+  2:13 ExitLevel: executed
+  2:13 ShutdownGame:
+  2:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:04 J;ec32336b56cd5f10;4;Shhsshs
+  0:37 K;ec32336b56cd5f10;4;axis;Shhsshs;ec32336b56cd5f10;4;axis;Shhsshs;at4_mp;1000;MOD_PROJECTILE_SPLASH;none
+  3:28 ShutdownGame:
+  3:28 ------------------------------------------------------------
+  3:28 ------------------------------------------------------------
+  3:28 InitGame
+  3:28 J;ec32336b56cd5f10;4;Shhsshs
+  4:07 ShutdownGame:
+  4:07 ------------------------------------------------------------
+  4:07 ------------------------------------------------------------
+  4:07 InitGame
+  4:08 J;ec32336b56cd5f10;4;Shhsshs
+  4:57 ShutdownGame:
+  4:57 ------------------------------------------------------------
+  4:57 ------------------------------------------------------------
+  4:57 InitGame
+  4:58 J;ec32336b56cd5f10;4;Shhsshs
+  5:16 ShutdownGame:
+  5:16 ------------------------------------------------------------
+  5:16 ------------------------------------------------------------
+  5:16 InitGame
+  5:17 J;ec32336b56cd5f10;4;Shhsshs
+  5:52 ShutdownGame:
+  5:52 ------------------------------------------------------------
+  5:52 ------------------------------------------------------------
+  5:52 InitGame
+  5:52 J;ec32336b56cd5f10;4;Shhsshs
+  6:05 J;49f6887b022dd791;0;Noot
+  6:14 J;6653f9abe77c6612;1;Black Hole chan
+  6:25 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  6:25 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_IMPACT;none
+  6:33 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  7:05 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;right_hand
+  7:12 Weapon;6653f9abe77c6612;1;Black Hole chan;m79_mp
+  7:13 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_lower
+  7:20 J;380e3e5928c8fd53;2;Charmander
+  7:33 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;head
+  7:38 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  8:04 Weapon;380e3e5928c8fd53;2;Charmander;m79_mp
+  8:06 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;head
+  8:08 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;left_arm_upper
+  8:16 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  8:23 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_MELEE;torso_upper
+  8:26 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;right_arm_upper
+  8:32 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;torso_lower
+  8:35 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+  8:37 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_lower
+  8:41 Weapon;6653f9abe77c6612;1;Black Hole chan;m79_mp
+  8:53 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_lower
+  9:06 K;49f6887b022dd791;0;axis;Noot;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_MELEE;torso_lower
+  9:07 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:22 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+  9:25 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;neck
+  9:31 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:35 K;ec32336b56cd5f10;4;axis;Shhsshs;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:39 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:39 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:44 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:51 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_GRENADE_SPLASH;none
+  9:51 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_MELEE;torso_lower
+  9:56 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:03 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 10:04 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_upper
+ 10:04 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 10:05 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_IMPACT;none
+ 10:10 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:18 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:22 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;left_leg_upper
+ 10:26 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:37 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 10:38 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:41 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:41 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 10:49 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 10:51 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;remotemissile_projectile_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 11:00 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_MELEE;head
+ 11:01 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 11:11 K;49f6887b022dd791;0;axis;Noot;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_MELEE;torso_lower
+ 11:12 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 11:18 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 11:19 K;49f6887b022dd791;0;axis;Noot;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 11:36 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;right_arm_upper
+ 11:42 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 11:53 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 12:06 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 12:12 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_upper
+ 12:12 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 12:17 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 12:17 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 12:22 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 12:26 Weapon;6653f9abe77c6612;1;Black Hole chan;m79_mp
+ 12:28 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 12:30 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_upper
+ 12:45 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 12:49 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_IMPACT;none
+ 12:54 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 12:58 K;ec32336b56cd5f10;4;axis;Shhsshs;ec32336b56cd5f10;4;axis;Shhsshs;stealth_bomb_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 12:58 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;stealth_bomb_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 13:04 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;torso_lower
+ 13:09 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 13:18 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 13:20 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 13:26 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 13:26 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;torso_lower
+ 13:27 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_MELEE;right_arm_lower
+ 13:34 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 13:41 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_IMPACT;none
+ 13:44 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 13:47 Weapon;ec32336b56cd5f10;4;Shhsshs;m79_mp
+ 13:49 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 13:56 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_IMPACT;none
+ 13:56 D;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_IMPACT;none
+ 13:58 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;remotemissile_projectile_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 13:58 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;remotemissile_projectile_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 14:03 Weapon;49f6887b022dd791;0;Noot;m79_mp
+ 14:03 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 14:10 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;head
+ 14:10 Weapon;380e3e5928c8fd53;2;Charmander;m79_mp
+ 14:15 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 14:21 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_MELEE;left_arm_lower
+ 14:23 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;axis;Shhsshs;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 14:31 Weapon;380e3e5928c8fd53;2;Charmander;m79_mp
+ 14:31 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 14:47 Weapon;380e3e5928c8fd53;2;Charmander;m79_mp
+ 14:48 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;sentry_minigun_mp;1000;MOD_RIFLE_BULLET;right_leg_lower
+ 14:53 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;m79_mp;1000;MOD_IMPACT;none
+ 14:59 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;m79_mp;1000;MOD_GRENADE_SPLASH;none
+ 15:04 ShutdownGame:
+ 15:04 ------------------------------------------------------------
+ 15:04 ------------------------------------------------------------
+ 15:04 InitGame
+ 15:04 J;ec32336b56cd5f10;4;Shhsshs
+ 15:04 J;380e3e5928c8fd53;2;Charmander
+ 15:04 J;6653f9abe77c6612;1;Black Hole chan
+ 15:04 J;49f6887b022dd791;0;Noot
+ 15:22 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 15:35 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_MELEE;right_arm_upper
+ 15:48 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_MELEE;torso_upper
+ 16:04 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_HEAD_SHOT;head
+ 16:20 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_MELEE;right_arm_upper
+ 16:20 Weapon;380e3e5928c8fd53;2;Charmander;dragunov_mp
+ 16:34 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_MELEE;right_arm_lower
+ 16:40 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 16:54 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_MELEE;torso_lower
+ 16:54 Weapon;49f6887b022dd791;0;Noot;dragunov_mp
+ 17:04 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_MELEE;left_arm_upper
+ 18:56 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_MELEE;torso_upper
+ 19:45 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_HEAD_SHOT;head
+ 20:14 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 20:17 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;neck
+ 20:22 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 20:37 Weapon;49f6887b022dd791;0;Noot;dragunov_mp
+ 20:54 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;left_arm_upper
+ 21:13 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 21:21 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_MELEE;right_arm_upper
+ 21:21 Weapon;380e3e5928c8fd53;2;Charmander;dragunov_mp
+ 21:33 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;right_leg_upper
+ 21:39 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 22:06 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 22:28 K;ec32336b56cd5f10;4;axis;Shhsshs;49f6887b022dd791;0;axis;Noot;dragunov_mp;1000;MOD_RIFLE_BULLET;left_leg_lower
+ 22:37 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 23:08 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_HEAD_SHOT;head
+ 23:22 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_HEAD_SHOT;head
+ 23:32 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 23:42 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 23:51 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_MELEE;torso_upper
+ 24:12 K;49f6887b022dd791;0;axis;Noot;6653f9abe77c6612;1;allies;Black Hole chan;dragunov_mp;1000;MOD_MELEE;torso_upper
+ 24:12 Weapon;6653f9abe77c6612;1;Black Hole chan;dragunov_mp
+ 24:33 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;axis;Shhsshs;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 24:39 K;49f6887b022dd791;0;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 24:52 Weapon;49f6887b022dd791;0;Noot;dragunov_mp
+ 24:56 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_MELEE;right_arm_upper
+ 25:05 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_MELEE;right_arm_upper
+ 25:14 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;dragunov_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 25:28 ShutdownGame:
+ 25:28 ------------------------------------------------------------
+ 25:28 ------------------------------------------------------------
+ 25:28 InitGame
+ 25:28 J;ec32336b56cd5f10;4;Shhsshs
+ 25:28 J;380e3e5928c8fd53;2;Charmander
+ 25:28 J;6653f9abe77c6612;1;Black Hole chan
+ 25:28 J;49f6887b022dd791;0;Noot
+ 25:43 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_hand
+ 25:49 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 25:57 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;head
+ 25:59 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 26:02 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;right_leg_upper
+ 26:06 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 26:13 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+ 26:19 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;left_hand
+ 26:21 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 26:21 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;head
+ 26:23 say;ec32336b56cd5f10;4;Shhsshs;RRRd
+ 26:26 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;right_arm_lower
+ 26:30 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_lower
+ 26:36 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 26:38 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+ 26:43 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+ 26:47 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 26:52 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 27:00 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+ 27:07 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 27:07 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 27:15 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 27:16 Weapon;6653f9abe77c6612;1;Black Hole chan;usp_fmj_mp
+ 27:22 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;neck
+ 27:25 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 27:32 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 27:36 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;torso_lower
+ 27:36 Weapon;6653f9abe77c6612;1;Black Hole chan;usp_fmj_mp
+ 27:39 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_MELEE;right_arm_upper
+ 27:50 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 27:59 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;torso_lower
+ 28:01 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 28:04 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 28:06 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 28:17 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 28:17 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;right_arm_upper
+ 28:22 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 28:24 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+ 28:35 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;left_arm_upper
+ 28:36 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 28:44 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 28:48 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;right_arm_upper
+ 28:53 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;right_arm_lower
+ 28:55 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 29:00 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;right_arm_upper
+ 29:01 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 29:12 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 29:16 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 29:20 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;stealth_bomb_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 29:24 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 29:31 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 29:40 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;head
+ 29:40 Weapon;6653f9abe77c6612;1;Black Hole chan;usp_fmj_mp
+ 29:41 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 29:50 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;head
+ 29:50 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 29:50 Weapon;49f6887b022dd791;0;Noot;usp_fmj_mp
+ 30:01 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 30:03 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 30:11 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_lower
+ 30:13 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;stealth_bomb_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 30:16 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;right_arm_lower
+ 30:18 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 30:20 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 30:27 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 30:48 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;usp_fmj_mp;1000;MOD_PISTOL_BULLET;neck
+ 30:53 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;right_hand
+ 30:55 Weapon;49f6887b022dd791;0;Noot;usp_fmj_mp
+ 31:02 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;torso_lower
+ 31:06 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 31:17 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 31:18 Weapon;ec32336b56cd5f10;4;Shhsshs;usp_fmj_mp
+ 31:38 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;left_arm_lower
+ 31:41 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_hand
+ 31:44 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 31:53 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 31:58 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+ 31:59 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;left_arm_lower
+ 32:04 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 32:13 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+ 32:26 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+ 32:29 Weapon;380e3e5928c8fd53;2;Charmander;usp_fmj_mp
+ 32:34 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 32:35 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_MELEE;right_arm_upper
+ 32:39 K;380e3e5928c8fd53;2;axis;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_lower
+ 32:43 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_lower
+ 32:49 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;allies;Black Hole chan;usp_fmj_mp;1000;MOD_HEAD_SHOT;head
+ 32:51 Weapon;6653f9abe77c6612;1;Black Hole chan;usp_fmj_mp
+ 32:51 Weapon;6653f9abe77c6612;1;Black Hole chan;usp_fmj_mp
+ 33:02 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;usp_fmj_mp;1000;MOD_MELEE;torso_upper
+ 33:02 Weapon;ec32336b56cd5f10;4;Shhsshs;usp_fmj_mp
+ 33:05 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;usp_fmj_mp;1000;MOD_PISTOL_BULLET;left_arm_lower
+ 33:08 ShutdownGame:
+ 33:08 ------------------------------------------------------------
+ 33:08 ------------------------------------------------------------
+ 33:08 InitGame
+ 33:08 J;ec32336b56cd5f10;4;Shhsshs
+ 33:08 J;380e3e5928c8fd53;2;Charmander
+ 33:08 J;6653f9abe77c6612;1;Black Hole chan
+ 33:08 J;49f6887b022dd791;0;Noot
+ 33:30 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_25mm_mp;1000;MOD_MELEE;torso_upper
+ 33:32 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 33:34 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 33:49 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_MELEE;torso_lower
+ 33:52 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_PROJECTILE;torso_upper
+ 33:56 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE;right_arm_lower
+ 33:59 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_PROJECTILE;right_arm_upper
+ 34:07 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_25mm_mp;1000;MOD_MELEE;torso_upper
+ 34:13 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_MELEE;right_hand
+ 34:24 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_MELEE;left_arm_upper
+ 34:27 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_MELEE;torso_upper
+ 34:32 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_PROJECTILE;torso_upper
+ 34:37 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;ac130_25mm_mp;1000;MOD_PROJECTILE;right_arm_upper
+ 34:41 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;axis;Black Hole chan;ac130_25mm_mp;1000;MOD_PROJECTILE;right_hand
+ 34:44 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE;torso_upper
+ 34:46 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE;right_leg_upper
+ 34:53 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_25mm_mp;1000;MOD_MELEE;left_arm_upper
+ 34:57 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_PROJECTILE;left_hand
+ 35:07 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_25mm_mp;1000;MOD_MELEE;head
+ 35:12 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_25mm_mp;1000;MOD_PROJECTILE;left_arm_upper
+ 35:16 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_40mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:25 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_40mm_mp;1000;MOD_MELEE;head
+ 35:30 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_HEAD_SHOT;head
+ 35:36 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:36 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:42 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:48 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:53 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:58 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 35:58 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:04 K;49f6887b022dd791;0;allies;Noot;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:04 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:13 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:13 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:18 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:23 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:23 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_MELEE;right_arm_lower
+ 36:28 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:28 K;380e3e5928c8fd53;2;allies;Charmander;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:31 K;380e3e5928c8fd53;2;allies;Charmander;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:31 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:34 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:34 K;380e3e5928c8fd53;2;allies;Charmander;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:36 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:39 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:41 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:43 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:44 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:45 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:48 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:50 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:50 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:52 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:55 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:57 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:57 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 36:59 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:02 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:02 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:04 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:07 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:11 K;6653f9abe77c6612;1;axis;Black Hole chan;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:11 K;380e3e5928c8fd53;2;allies;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:18 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:19 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:19 K;380e3e5928c8fd53;2;allies;Charmander;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:27 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:40 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_MELEE;right_hand
+ 37:48 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:48 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:53 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 37:55 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:01 K;49f6887b022dd791;0;allies;Noot;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:01 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:08 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE;right_leg_lower
+ 38:08 K;49f6887b022dd791;0;allies;Noot;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:11 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:26 K;6653f9abe77c6612;1;axis;Black Hole chan;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:26 K;380e3e5928c8fd53;2;allies;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:26 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:34 K;380e3e5928c8fd53;2;allies;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:38 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:38 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:43 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:49 K;380e3e5928c8fd53;2;allies;Charmander;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 38:53 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:01 K;ec32336b56cd5f10;4;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_MELEE;torso_lower
+ 39:05 K;ec32336b56cd5f10;4;allies;Shhsshs;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:11 K;6653f9abe77c6612;1;axis;Black Hole chan;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_MELEE;torso_lower
+ 39:21 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:25 K;6653f9abe77c6612;1;axis;Black Hole chan;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:25 K;49f6887b022dd791;0;allies;Noot;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:32 K;ec32336b56cd5f10;4;allies;Shhsshs;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:39 K;6653f9abe77c6612;1;axis;Black Hole chan;ec32336b56cd5f10;4;allies;Shhsshs;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:42 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_MELEE;left_leg_upper
+ 39:45 K;ec32336b56cd5f10;4;allies;Shhsshs;6653f9abe77c6612;1;axis;Black Hole chan;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:48 K;49f6887b022dd791;0;allies;Noot;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:48 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;0;allies;Noot;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 39:57 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:05 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:15 K;380e3e5928c8fd53;2;allies;Charmander;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:15 K;49f6887b022dd791;0;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:20 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:26 K;6653f9abe77c6612;1;axis;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;ac130_105mm_mp;1000;MOD_PROJECTILE_SPLASH;none
+ 40:32 ShutdownGame:
+ 40:32 ------------------------------------------------------------
+ 40:32 ------------------------------------------------------------
+ 40:32 InitGame
+ 40:32 J;ec32336b56cd5f10;4;Shhsshs
+ 40:32 J;380e3e5928c8fd53;2;Charmander
+ 40:32 J;6653f9abe77c6612;1;Black Hole chan
+ 40:32 J;49f6887b022dd791;0;Noot
+ 40:48 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;0;axis;Noot;m21_fmj_thermal_mp;1000;MOD_MELEE;left_leg_upper
+ 40:52 K;ec32336b56cd5f10;4;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;m21_fmj_thermal_mp;1000;MOD_RIFLE_BULLET;torso_upper
+ 40:59 K;49f6887b022dd791;0;axis;Noot;6653f9abe77c6612;1;allies;Black Hole chan;m21_fmj_thermal_mp;1000;MOD_RIFLE_BULLET;torso_lower
+ 41:08 ShutdownGame:
+ 41:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:03 J;ec32336b56cd5f10;0;Shhsshs
+  0:24 J;6653f9abe77c6612;1;Black Hole chan
+  0:24 J;380e3e5928c8fd53;2;Charmander
+  0:25 J;49f6887b022dd791;3;Noot
+  0:41 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  0:47 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  0:53 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  0:53 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  0:57 Weapon;49f6887b022dd791;3;Noot;aa12_grip_silencer_mp
+  1:01 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+  1:01 Weapon;ec32336b56cd5f10;0;Shhsshs;aa12_grip_silencer_mp
+  1:03 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  1:07 K;ec32336b56cd5f10;0;axis;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_upper
+  1:07 Weapon;6653f9abe77c6612;1;Black Hole chan;aa12_grip_silencer_mp
+  1:09 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  1:09 Weapon;49f6887b022dd791;3;Noot;aa12_grip_silencer_mp
+  1:11 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  1:22 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  1:33 K;ec32336b56cd5f10;0;axis;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  1:34 Weapon;6653f9abe77c6612;1;Black Hole chan;aa12_grip_silencer_mp
+  2:00 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_lower
+  2:02 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_lower
+  2:16 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  2:20 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  2:21 Weapon;6653f9abe77c6612;1;Black Hole chan;aa12_grip_silencer_mp
+  2:27 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_upper
+  2:37 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+  2:39 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  2:53 K;ec32336b56cd5f10;0;axis;Shhsshs;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+  2:57 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;head
+  2:57 Weapon;380e3e5928c8fd53;2;Charmander;aa12_grip_silencer_mp
+  3:06 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+  3:10 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+  3:22 K;ec32336b56cd5f10;0;axis;Shhsshs;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  3:23 K;49f6887b022dd791;3;axis;Noot;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  3:43 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;0;axis;Shhsshs;aa12_grip_silencer_mp;1000;MOD_MELEE;right_arm_upper
+  3:55 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;head
+  4:48 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  4:59 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;right_leg_upper
+  5:13 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_upper
+  5:30 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  5:53 K;49f6887b022dd791;3;axis;Noot;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  5:53 Weapon;6653f9abe77c6612;1;Black Hole chan;aa12_grip_silencer_mp
+  6:10 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  6:28 K;ec32336b56cd5f10;0;axis;Shhsshs;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  6:35 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_HEAD_SHOT;head
+  6:48 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+  6:49 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;left_leg_lower
+  7:04 K;380e3e5928c8fd53;2;axis;Charmander;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_leg_lower
+  7:24 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;right_arm_lower
+  7:28 K;ec32336b56cd5f10;0;axis;Shhsshs;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  8:12 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;right_arm_upper
+  8:25 K;ec32336b56cd5f10;0;axis;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_MELEE;head
+  8:29 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_lower
+  8:30 Weapon;380e3e5928c8fd53;2;Charmander;aa12_grip_silencer_mp
+  8:40 K;49f6887b022dd791;3;axis;Noot;6653f9abe77c6612;1;allies;Black Hole chan;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  8:58 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;right_hand
+  9:06 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;0;axis;Shhsshs;aa12_grip_silencer_mp;1000;MOD_MELEE;head
+  9:07 Weapon;ec32336b56cd5f10;0;Shhsshs;aa12_grip_silencer_mp
+  9:23 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  9:37 K;ec32336b56cd5f10;0;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_hand
+  9:43 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+  9:44 K;380e3e5928c8fd53;2;axis;Charmander;49f6887b022dd791;3;axis;Noot;aa12_grip_silencer_mp;1000;MOD_MELEE;left_arm_upper
+  9:44 Weapon;49f6887b022dd791;3;Noot;aa12_grip_silencer_mp
+  9:45 K;49f6887b022dd791;3;axis;Noot;ec32336b56cd5f10;0;axis;Shhsshs;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+  9:45 Weapon;ec32336b56cd5f10;0;Shhsshs;aa12_grip_silencer_mp
+  9:59 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_upper
+ 10:07 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;0;axis;Shhsshs;aa12_grip_silencer_mp;1000;MOD_MELEE;torso_upper
+ 10:12 K;49f6887b022dd791;3;axis;Noot;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;right_leg_lower
+ 10:18 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_PISTOL_BULLET;torso_lower
+ 10:19 K;ec32336b56cd5f10;0;axis;Shhsshs;380e3e5928c8fd53;2;axis;Charmander;aa12_grip_silencer_mp;1000;MOD_MELEE;right_leg_upper
+ 10:19 Weapon;380e3e5928c8fd53;2;Charmander;aa12_grip_silencer_mp
+ 10:32 ExitLevel: executed
+ 10:32 ShutdownGame:
+ 10:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:03 J;ec32336b56cd5f10;0;Shhsshs
+  0:12 ShutdownGame:
+  0:12 ------------------------------------------------------------
+  0:12 ------------------------------------------------------------
+  0:12 InitGame
+  0:16 J;ec32336b56cd5f10;0;Shhsshs
+  0:32 J;6653f9abe77c6612;1;Black Hole chan
+  0:32 J;380e3e5928c8fd53;2;Charmander
+  0:44 J;49f6887b022dd791;3;Noot
+  0:48 K;ec32336b56cd5f10;0;allies;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;p90_eotech_mp;1000;MOD_PISTOL_BULLET;neck
+  0:57 K;6653f9abe77c6612;1;allies;Black Hole chan;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_HEAD_SHOT;head
+  0:59 Weapon;49f6887b022dd791;3;Noot;p90_eotech_mp
+  1:05 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  1:08 K;6653f9abe77c6612;1;allies;Black Hole chan;ec32336b56cd5f10;0;allies;Shhsshs;p90_eotech_mp;1000;MOD_PISTOL_BULLET;left_hand
+  1:14 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  1:15 Weapon;49f6887b022dd791;3;Noot;p90_eotech_mp
+  1:19 K;ec32336b56cd5f10;0;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_MELEE;left_arm_upper
+  1:30 K;380e3e5928c8fd53;2;allies;Charmander;ec32336b56cd5f10;0;allies;Shhsshs;p90_eotech_mp;1000;MOD_MELEE;left_arm_upper
+  1:38 K;ec32336b56cd5f10;0;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  1:45 K;49f6887b022dd791;3;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_MELEE;torso_upper
+  2:04 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  2:22 K;49f6887b022dd791;3;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  2:27 Weapon;380e3e5928c8fd53;2;Charmander;p90_eotech_mp
+  2:31 K;ec32336b56cd5f10;0;allies;Shhsshs;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  2:37 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_HEAD_SHOT;head
+  2:42 K;380e3e5928c8fd53;2;allies;Charmander;49f6887b022dd791;3;allies;Noot;p90_eotech_mp;1000;MOD_PISTOL_BULLET;right_leg_upper
+  2:51 K;49f6887b022dd791;3;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_MELEE;torso_upper
+  2:56 K;ec32336b56cd5f10;0;allies;Shhsshs;6653f9abe77c6612;1;allies;Black Hole chan;p90_eotech_mp;1000;MOD_PISTOL_BULLET;left_leg_upper
+  3:07 K;ec32336b56cd5f10;0;allies;Shhsshs;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_MELEE;right_arm_upper
+  3:13 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_PISTOL_BULLET;left_arm_lower
+  3:40 K;49f6887b022dd791;3;allies;Noot;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  3:43 Weapon;380e3e5928c8fd53;2;Charmander;p90_eotech_mp
+  3:51 K;49f6887b022dd791;3;allies;Noot;ec32336b56cd5f10;0;allies;Shhsshs;p90_eotech_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  3:54 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;p90_eotech_mp;1000;MOD_PISTOL_BULLET;left_arm_upper
+  3:57 Weapon;ec32336b56cd5f10;0;Shhsshs;p90_eotech_mp
+  4:01 ShutdownGame:
+  4:01 ------------------------------------------------------------
+  4:01 ------------------------------------------------------------
+  4:01 InitGame
+  4:01 J;49f6887b022dd791;3;Noot
+  4:01 J;380e3e5928c8fd53;2;Charmander
+  4:01 J;6653f9abe77c6612;1;Black Hole chan
+  4:01 J;ec32336b56cd5f10;0;Shhsshs
+  4:19 K;49f6887b022dd791;3;axis;Noot;ec32336b56cd5f10;0;axis;Shhsshs;tmp_eotech_silencer_mp;1000;MOD_PISTOL_BULLET;torso_upper
+  4:19 K;6653f9abe77c6612;1;allies;Black Hole chan;380e3e5928c8fd53;2;allies;Charmander;tmp_eotech_silencer_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  4:37 ShutdownGame:
+  4:37 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame
+  0:06 J;ec32336b56cd5f10;17;Shhsshs
+  0:19 J;49f6887b022dd791;0;Noot
+  0:28 J;380e3e5928c8fd53;1;Charmander
+  0:30 J;6653f9abe77c6612;2;Black Hole chan
+  0:37 K;49f6887b022dd791;0;axis;Noot;ec32336b56cd5f10;17;allies;Shhsshs;m1014_grip_mp;1000;MOD_PISTOL_BULLET;torso_lower
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------

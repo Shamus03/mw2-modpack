@@ -370,7 +370,7 @@ checkKill()
 	{
 		if(self.score > curScore)
 		{
-			self setWeaponAmmoStock(getDvar("oneshot_weapon"), 1);
+			self setWeaponAmmoClip(getDvar("oneshot_weapon"), 1);
 			curScore = self.score;
 			self.hasShot = 0;
 		}
