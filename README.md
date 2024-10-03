@@ -9,5 +9,5 @@ Via git clone:
 
 Or via zip file:
 - download this repository as a zip fiie
-- unzip it to `mods` inside your Call of Duty directory
+- unzip and rename to `mods` inside your Call of Duty directory
 - Final path should look like `D:\SteamLibrary\steamapps\common\Call of Duty Modern Warfare 2\mods\OneInTheChamber`
